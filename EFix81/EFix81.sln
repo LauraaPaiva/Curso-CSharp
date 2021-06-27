@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFix81", "EFix81\EFix81.csproj", "{B25C6B72-D1AE-4A6C-8816-306A7DCE5DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B25C6B72-D1AE-4A6C-8816-306A7DCE5DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25C6B72-D1AE-4A6C-8816-306A7DCE5DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25C6B72-D1AE-4A6C-8816-306A7DCE5DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25C6B72-D1AE-4A6C-8816-306A7DCE5DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7538A8CC-B3BE-466B-B51F-85E2120F1CD0}
+	EndGlobalSection
+EndGlobal
